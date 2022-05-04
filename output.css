@@ -1312,27 +1312,27 @@ button{
 
 .before\:bg-\[url\(\'\.\.\/src\/assets\/background1\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url('../src/assets/background1.jpg');
+  background-image: url('./assets/background1.jpg');
 }
 
 .before\:bg-\[url\(\'\.\.\/src\/assets\/bg-2\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url('../src/assets/bg-2.jpg');
+  background-image: url('./assets/bg-2.jpg');
 }
 
 .before\:bg-\[url\(\'\.\.\/src\/assets\/awesomefeaturesbg\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url('../src/assets/awesomefeaturesbg.jpg');
+  background-image: url('./assets/awesomefeaturesbg.jpg');
 }
 
 .before\:bg-\[url\(\'\.\.\/src\/assets\/bg-numbers\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url('../src/assets/bg-numbers.jpg');
+  background-image: url('./assets/bg-numbers.jpg');
 }
 
 .before\:bg-\[url\(\'\.\.\/src\/assets\/bg-contactus\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url('../src/assets/bg-contactus.jpg');
+  background-image: url('./assets/bg-contactus.jpg');
 }
 
 .hover\:bg-\[\#069ff4\]:hover {
