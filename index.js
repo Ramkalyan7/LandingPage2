@@ -142,7 +142,7 @@ const updateCount = () => {
       const count = +counter.innerText;
 
       // Lower inc to slow and higher to slow
-      const inc = 10;
+      const inc = 50;
 
       // console.log(inc);
       // console.log(count);
